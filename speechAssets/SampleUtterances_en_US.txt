@@ -2,3 +2,29 @@ GetNewFactIntent a fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
 GetNewFactIntent give me something
+GetNewFactIntent tell me what is interesting
+GetNewFactIntent can you teach me something
+GetNewFactIntent what fact do you know
+GetNewFactIntent give me some information
+GetNewFactIntent descrive a historical fact
+GetNewFactIntent tell me a historical event
+GetNewFactIntent a historicla trivia
+GetNewFactIntent a historical information
+GetNewFactIntent what historical event do you tell me
+GetNewFactIntent make me excited with a fact
+GetNewFactIntent what do you know
+GetNewYearFactIntent give me a fact happened in {FACT_YEAR}
+GetNewYearFactIntent what fact happened in {FACT_YEAR}
+GetNewYearFactIntent a fact in {FACT_YEAR}
+GetNewYearFactIntent a historical information in {FACT_YEAR}
+GetNewYearFactIntent what fact in {FACT_YEAR} do you know
+GetNewYearFactIntent tell me a fact in {FACT_YEAR}
+GetNewYearFactIntent tell me something in {FACT_YEAR}
+GetNewYearFactIntent tell me an event in {FACT_YEAR}
+GetNewYearFactIntent give me a fact in {FACT_YEAR}
+GetNewYearFactIntent give me an event occured in {FACT_YEAR}
+GetNewYearFactIntent tell me what is interesting in {FACT_YEAR}
+GetNewYearFactIntent can you teach me an event in {FACT_YEAR}
+GetNewYearFactIntent whtat event in {FACT_YEAR} do you know
+GetNewYearFactIntent descrive an occurence in {FACT_YEAR}
+GetNewYearFactIntent make me excited with a fact in {FACT_YEAR}
